@@ -1,3 +1,2 @@
-# Community Template Repo
-
-Template repo with docs and GitHub Actions etc, to create other projects.
+# ML-Lab CC1702
+Machine Learning lab experiments @ Manipal University Jaipur
